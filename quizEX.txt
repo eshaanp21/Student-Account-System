@@ -1,0 +1,36 @@
+What is the first letter of the alphabet?    //root
+a) Z
+b) B
+c) J
+d) A
+d   //answer
+break   //end of question if program reads this then use break
+How many letters are in the alphabet?    //left of root
+a) 26
+b) 26
+c) 26
+d) All of the above
+d
+break
+What is 1+1?     //right of root
+a) 3
+b) 2
+c) 4
+d) 1
+b
+break
+What is the capital of the United States?   //left on next level
+a) Seattle
+b) New York
+c) Washington DC
+d) California
+c
+break
+How many continents are there?     //right on next level
+a) 9
+b) 12
+c) 10
+d) 7
+d
+//end of text file cause i dont want to make more examples
+//user getline to get the full questions and options etc.
